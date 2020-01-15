@@ -1,5 +1,5 @@
 /**
- * A practice hoever this is done in the */
+ * A practice hoever this is done in the  goes there*/
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -14,6 +14,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
+import java.util.Scanner;
 
 /**
  * A simple Swing-based client for the chat server. Graphically it is a frame with a text
